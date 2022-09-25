@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/happy-cakes/static/css/main.962d08fa.css",
+    "main.js": "/happy-cakes/static/js/main.98af48fa.js",
+    "static/js/787.08e61dd9.chunk.js": "/happy-cakes/static/js/787.08e61dd9.chunk.js",
+    "index.html": "/happy-cakes/index.html",
+    "main.962d08fa.css.map": "/happy-cakes/static/css/main.962d08fa.css.map",
+    "main.98af48fa.js.map": "/happy-cakes/static/js/main.98af48fa.js.map",
+    "787.08e61dd9.chunk.js.map": "/happy-cakes/static/js/787.08e61dd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962d08fa.css",
+    "static/js/main.98af48fa.js"
+  ]
+}
